@@ -47,7 +47,6 @@ Handles different datasets automatically without manual preprocessing.
 ⚙️ Installation
 
 Clone the repository:
-```bash
 git clone https://github.com/your-username/InsightAI.git
 cd InsightAI
 Install dependencies
@@ -79,6 +78,6 @@ Dataset recommendation system
 Exportable AI reports
 Real-time data analysis
 
-👩‍💻 Author
-
+👩‍💻 Author 
+Developed as part of a hackathon project to demonstrate the power of AI-driven data analytics platforms.
 Developed as part of a hackathon project to demonstrate the power of AI-driven data analytics platforms.
