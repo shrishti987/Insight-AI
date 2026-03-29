@@ -47,7 +47,7 @@ Handles different datasets automatically without manual preprocessing.
 ⚙️ Installation
 
 Clone the repository:
-git clone https://github.com/your-username/InsightAI.git
+git clone https://github.com/your-username/InsightAI-nexus.git
 cd InsightAI
 Install dependencies
 pip install -r requirements.txt
